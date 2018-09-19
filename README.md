@@ -1,6 +1,7 @@
-# deploy-readme
-Step by step for deploying to Heroku, AWS, etc..
+# Welcome to improvement tips!
 
-# Heroku Deploy
+## Feel free to add an improvemnt tip
 
-# AWS Deploy
+### It can be whatever category you can think of
+
+#### Keep them commits short and precise
