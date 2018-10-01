@@ -1,7 +1,5 @@
-# Welcome to improvement tips!
+# Welcome to quick tips!
 
-## Feel free to add an improvemnt tip
+## Feel free to add a quick tip
 
-### It can be whatever category you can think of
-
-#### Keep them commits short and precise
+### It can be whatever category you can think of!!
