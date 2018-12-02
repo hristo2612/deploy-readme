@@ -1,5 +1,7 @@
 # Welcome to quick tips!
 
-## Feel free to add a quick tip
+## Categories:
 
-### It can be whatever category you can think of!!
+#### > Web Development
+
+[--> Mobile Debugging](https://github.com/hristo2612/quick-tips/tree/master/Web%20Development/Debugging)
